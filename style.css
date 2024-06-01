@@ -1,0 +1,166 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   height: 200px;
+   
+    margin-bottom: 20px;
+    background-image: url(https://kartinki.pics/uploads/posts/2021-07/1626251408_31-kartinkin-com-p-fon-lapki-krasivo-33.jpg);
+    
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    font-family: Arial black;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: 20px;
+    font-family: comic sans ms;
+    
+}
+ 
+ 
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 20px auto;
+    display:flex;
+}
+
+article {
+    background-color: white;
+    padding: 20px;
+    width: 400px;
+    margin: 15px;
+}
+
+.article-but1 {
+    text-decoration: none;
+    background-color: rgb(196, 60, 19);
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    font-family: comic sans ms;
+}
+
+footer {
+   background-image: url(https://kartinki.pics/uploads/posts/2021-07/1626251408_31-kartinkin-com-p-fon-lapki-krasivo-33.jpg);
+    padding:3px ;
+    display: flex;
+    height: 200px;
+  
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+    color: aqua;
+    font-family: comic sans ms;
+}
+
+main {
+  display: flex;  
+}
+body {
+  
+}
+
+.article-but2{
+ text-decoration: none;
+    background-color: rgb(0, 255, 21);
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+        font-family: comic sans ms;
+}
+.article-but3 {
+    text-decoration: none;
+    background-color: rgba(223, 18, 18, 0.925);
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+       font-family: comic sans ms;
+}
+.article-but4 {
+    text-decoration: none;
+    background-color: rgba(255, 0, 221, 0.925);
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+       font-family: comic sans ms;
+}
+.button {
+    font-size: 35px;
+    font-family: comic sans ms;
+}
+.leptop {
+    font-family: comic sans ms;
+}
+.navush {
+    font-family: comic sans ms;
+}
+.mobila {
+    font-family: comic sans ms;
+}
+.tech {
+    font-family: comic sans ms;
+}
+
+.title {
+    width: 100%;
+}
+
+header h2 {
+    font-family: comic sans ms;
+    color: lightgray;
+    font-size: 52px;
+    text-align: center;
+}
+
+.nav-link {
+  color: whitesmoke;
+  font-family: comic sans ms;
+}
+
